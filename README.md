@@ -5,7 +5,8 @@ No projeto foram usadas as linguagens <b>HTML5, CSS3 e Javascript</b>, com apoio
 ![Vistei.com](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/8146e974506599.5c326ed0bc09a.png)
 
 
-A Vistei é uma startup de auto-vistoria veicular para seguradoras.
+A Vistei é uma startup de auto-vistoria veicular para seguradoras que utiliza a tecnologia para vistoriar
+veículos remotamente em qualquer lugar do mundo. <br>
 Fique à vontade para dar uma olhada no código, para ver o site ao vivo e para acompanhar o projeto no Behance:
 
 
